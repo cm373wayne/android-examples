@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/user1/code/workspaces/android-examples/SlidingMenu-master/app/src/main/res/values/menu_items.xml -->
+    <eat-comment/>
+    <string-array name="menu_items">
+        <item>Main</item>
+        <item>Button</item>
+        <item>CheckBox</item>
+        <item>EditText</item>
+        <item>ImageView</item>
+        <item>ListView</item>
+        <item>RadioButton</item>
+        <item>TextView</item>
+        <item>ToggleButton</item>
+        <item>WebView</item>
+        <item>Dummy 1</item>
+        <item>Dummy 2</item>
+        <item>Dummy 3</item>
+        <item>Dummy 4</item>
+        <item>Dummy 5</item>
+        <item>Dummy 6</item>
+    </string-array>
+    <!-- From: file:/Users/user1/code/workspaces/android-examples/SlidingMenu-master/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/user1/code/workspaces/android-examples/SlidingMenu-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SlidingMenu2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, modo. Fusce mauris purus, aliquet spor det.</string>
+    <!-- From: file:/Users/user1/code/workspaces/android-examples/SlidingMenu-master/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
