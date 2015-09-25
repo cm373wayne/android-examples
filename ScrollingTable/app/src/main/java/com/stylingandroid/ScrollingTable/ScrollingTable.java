@@ -62,6 +62,7 @@ public class ScrollingTable extends LinearLayout
 				View cell = row.getChildAt( cellnum );
 				TableRow.LayoutParams params = (TableRow.LayoutParams)cell.getLayoutParams();
 				params.width = colWidths.get( cellnum );
+				cell.setLayoutParams(params);
 			}
 		}
 	}
